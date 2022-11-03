@@ -1,7 +1,7 @@
 ---
 navigation:
   priority: 180
-  category: Chapters
+  group: Chapters
   label: The Queen's Croquet-Ground
 ---
 

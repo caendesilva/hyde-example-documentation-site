@@ -1,7 +1,7 @@
 ---
 navigation:
   priority: 170
-  category: Chapters
+  group: Chapters
   label: A Mad Tea-Party
 ---
 

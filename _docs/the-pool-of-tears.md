@@ -1,7 +1,7 @@
 ---
 navigation:
   priority: 120
-  category: Chapters
+  group: Chapters
   label: The Pool of Tears
 ---
 

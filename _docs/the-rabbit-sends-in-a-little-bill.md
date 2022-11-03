@@ -1,7 +1,7 @@
 ---
 navigation:
   priority: 140
-  category: Chapters
+  group: Chapters
   label: The Rabbit Sends in a Little Bill
 ---
 

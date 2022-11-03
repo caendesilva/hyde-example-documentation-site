@@ -1,7 +1,7 @@
 ---
 navigation:
   priority: 110
-  category: Chapters
+  group: Chapters
   label: Down the Rabbit-Hole
 ---
 

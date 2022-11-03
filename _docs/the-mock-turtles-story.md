@@ -1,7 +1,7 @@
 ---
 navigation:
   priority: 190
-  category: Chapters
+  group: Chapters
   label: The Mock Turtle's Story
 ---
 

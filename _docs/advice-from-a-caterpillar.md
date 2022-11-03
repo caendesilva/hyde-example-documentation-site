@@ -1,7 +1,7 @@
 ---
 navigation:
   priority: 150
-  category: Chapters
+  group: Chapters
   label: Advice from a Caterpillar
 ---
 

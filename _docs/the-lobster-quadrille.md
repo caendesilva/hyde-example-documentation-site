@@ -1,7 +1,7 @@
 ---
 navigation:
   priority: 200
-  category: Chapters
+  group: Chapters
   label: The Lobster Quadrille
 ---
 

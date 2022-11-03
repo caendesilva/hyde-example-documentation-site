@@ -1,6 +1,6 @@
 ---
 navigation:
-  category: Chapters
+  group: Chapters
   label: A Caucus-Race and a Long Tale
   priority: 130
 ---

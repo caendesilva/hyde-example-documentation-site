@@ -1,7 +1,7 @@
 ---
 navigation:
   priority: 210
-  category: Chapters
+  group: Chapters
   label: Who Stole the Tarts?
 ---
 

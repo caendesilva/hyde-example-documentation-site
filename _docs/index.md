@@ -1,7 +1,7 @@
 ---
 title: Alice's Adventures in Wonderland
 navigation:
-  category: Introduction
+  group: Introduction
   priority: 100
   label: Cover Page
 ---

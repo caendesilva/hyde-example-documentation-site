@@ -1,7 +1,7 @@
 ---
 navigation:
   priority: 160
-  category: Chapters
+  group: Chapters
   label: Pig and Pepper
 ---
 

@@ -1,7 +1,7 @@
 ---
 navigation:
   priority: 220
-  category: Chapters
+  group: Chapters
   label: Alice's Evidence
 ---
 
