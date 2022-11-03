@@ -14,5 +14,12 @@ navigation:
 Categorized into Markdown files, one for each chapter.
 </p>
 <p align="center" class="mx-auto mt-2">
-With YAML Front Matter for usage in <a href="https://hydephp.com/">HydePHP</a> Documentation Sites.
+With YAML Front Matter for usage in HydePHP Documentation Sites.
 </p>
+
+---
+
+<h3 align="center" class="mx-auto">This is a <a href="https://hydephp.com/">HydePHP</a>  Example Documentation Site</h3>
+
+<p align="center" class="mx-auto mt-4 mb-0 text-sm">
+See attributions and license information on the <a href="extra-information">Extra Information</a> page.

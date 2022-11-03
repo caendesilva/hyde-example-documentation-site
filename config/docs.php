@@ -21,7 +21,7 @@ return [
     |
     */
 
-    'header_title' => config('site.name', 'HydePHP').' Docs',
+    'header_title' => config('site.name', 'Documentation Example'),
 
     /*
     |--------------------------------------------------------------------------
