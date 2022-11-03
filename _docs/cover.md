@@ -14,7 +14,5 @@ navigation:
 Categorized into Markdown files, one for each chapter.
 </p>
 <p align="center" class="mx-auto mt-2">
-With YAML Front Matter for usage in Hyde Documentation Sites.
+With YAML Front Matter for usage in [HydePHP](https://hydephp.com/) Documentation Sites.
 </p>
-
-
