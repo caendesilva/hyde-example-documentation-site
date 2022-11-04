@@ -6,11 +6,18 @@
 *.md diff=markdown
 *.php diff=php
 
-/.github export-ignore
-.styleci.yml export-ignore
-.scrutinizer.yml export-ignore
-BACKERS.md export-ignore
-CONTRIBUTING.md export-ignore
-CHANGELOG.md export-ignore
-
-tests/ export-ignore
+LICENSE.md export-ignore
+README.md export-ignore
+SECURITY.md export-ignore
+_site export-ignore
+composer.json export-ignore
+composer.lock export-ignore
+docs export-ignore
+hyde export-ignore
+package.json export-ignore
+phpunit.xml.dist export-ignore
+resources export-ignore
+storage export-ignore
+tailwind.config.js export-ignore
+vendor export-ignore
+webpack.mix.js export-ignore
