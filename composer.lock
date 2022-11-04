@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1ee0a1ac0f638c7103710ecd6e373130",
+    "content-hash": "19d5e206a07dad8af57d56ee490d5754",
     "packages": [
         {
             "name": "brick/math",
@@ -826,23 +826,23 @@
         },
         {
             "name": "hyde/framework",
-            "version": "v0.64.0-beta",
+            "version": "dev-develop",
             "source": {
                 "type": "git",
                 "url": "https://github.com/hydephp/framework.git",
-                "reference": "9bfed79f02e16745981ba43ad0bc9e7de6b168ca"
+                "reference": "fc5e0e6d98e0fcdf37a0a9548ebdd4c9043e83a5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hydephp/framework/zipball/9bfed79f02e16745981ba43ad0bc9e7de6b168ca",
-                "reference": "9bfed79f02e16745981ba43ad0bc9e7de6b168ca",
+                "url": "https://api.github.com/repos/hydephp/framework/zipball/fc5e0e6d98e0fcdf37a0a9548ebdd4c9043e83a5",
+                "reference": "fc5e0e6d98e0fcdf37a0a9548ebdd4c9043e83a5",
                 "shasum": ""
             },
             "require": {
                 "illuminate/support": "^9.5",
                 "illuminate/view": "^9.0",
                 "league/commonmark": "^2.2",
-                "php": "^8.0",
+                "php": "^8.1",
                 "spatie/yaml-front-matter": "^2.0.7",
                 "symfony/yaml": "^6.0",
                 "torchlight/torchlight-commonmark": "^0.5.5"
@@ -858,7 +858,7 @@
                     "src/helpers.php"
                 ],
                 "psr-4": {
-                    "Hyde\\Framework\\": "src/"
+                    "Hyde\\": "src/"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -874,7 +874,7 @@
             "description": "The HydePHP Framework",
             "support": {
                 "issues": "https://github.com/hydephp/framework/issues",
-                "source": "https://github.com/hydephp/framework/tree/v0.64.0-beta"
+                "source": "https://github.com/hydephp/framework/tree/develop"
             },
             "funding": [
                 {
@@ -882,7 +882,7 @@
                     "type": "custom"
                 }
             ],
-            "time": "2022-10-08T15:05:25+00:00"
+            "time": "2022-11-03T20:43:30+00:00"
         },
         {
             "name": "illuminate/bus",
@@ -6083,7 +6083,9 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": [],
+    "stability-flags": {
+        "hyde/framework": 20
+    },
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
