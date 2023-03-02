@@ -2,10 +2,10 @@
  
 namespace App\Actions;
  
-use Hyde\Framework\Features\BuildTasks\BuildTask;
+use Hyde\Framework\Features\BuildTasks\PostBuildTask;
 use Hyde\Support\Models\Redirect;
 
-class AddRedirectsBuildTask extends BuildTask
+class AddRedirectsBuildTask extends PostBuildTask
 {
     public static string $description = 'Generate redirects for the index pages';
  
