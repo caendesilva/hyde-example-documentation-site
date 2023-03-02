@@ -9,13 +9,11 @@ class AddRedirectsBuildTask extends PostBuildTask
 {
     public static string $description = 'Generate redirects for the index pages';
  
-    public function run(?\Illuminate\Console\OutputStyle $output = null): int
+    public function handle(): void
     {
         // $this->info('Hello World!');
 
         Redirect::make('docs/index', 'cover.html')->store();
         Redirect::make('index', 'docs/cover.html')->store();
-
-        return 0;
     }
 }
