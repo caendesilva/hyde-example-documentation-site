@@ -9,7 +9,7 @@ class AddRedirectsBuildTask extends PostBuildTask
 {
     public static string $description = 'Generate redirects for the index pages';
  
-    public function run(): int
+    public function run(?\Illuminate\Console\OutputStyle $output = null): int
     {
         // $this->info('Hello World!');
 
