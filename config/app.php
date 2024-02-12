@@ -102,7 +102,7 @@ return [
         'Route' => \Hyde\Facades\Route::class,
         'Asset' => \Hyde\Facades\Asset::class,
         'Author' => \Hyde\Facades\Author::class,
-        'Includes' => \Hyde\Facades\Includes::class,
+        'Includes' => \Hyde\Support\Includes::class,
         'Features' => \Hyde\Facades\Features::class,
         'BladePage' => \Hyde\Pages\BladePage::class,
         'MarkdownPage' => \Hyde\Pages\MarkdownPage::class,
